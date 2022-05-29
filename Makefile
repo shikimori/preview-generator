@@ -39,6 +39,11 @@ clear: ## Clear output folder
 	rm -rf "output"
 	mkdir -p "output"
 
+	rm -rf "tests/tmp/*.jpg"
+
+test:
+	pytest
+
 # ========== Fetch ========== #
 
 fetch_single_anime: clear ## Fetch "Cowboy Bebop" anime
