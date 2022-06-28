@@ -1,0 +1,3298 @@
+[
+  {
+    "id": 12138,
+    "name": "Don Dracula",
+    "russian": "Дон Дракула",
+    "image": {
+      "original": "/system/mangas/original/12138.jpg?1648167570",
+      "preview": "/system/mangas/preview/12138.jpg?1648167570",
+      "x96": "/system/mangas/x96/12138.jpg?1648167570",
+      "x48": "/system/mangas/x48/12138.jpg?1648167570"
+    },
+    "url": "/mangas/12138-don-dracula",
+    "kind": "manga",
+    "score": "6.86",
+    "status": "released",
+    "volumes": 3,
+    "chapters": 26,
+    "aired_on": "1979-05-28",
+    "released_on": "1979-12-10",
+    "english": [
+      "Don Dracula"
+    ],
+    "japanese": [
+      "ドン・ドラキュラ"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 12138,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 22
+      },
+      {
+        "name": "Прочитано",
+        "value": 1
+      },
+      {
+        "name": "Читаю",
+        "value": 2
+      },
+      {
+        "name": "Брошено",
+        "value": 9
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 64,
+        "name": "Vampire",
+        "russian": "Вампиры",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 206,
+        "name": "Shounen Champion (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 16,
+    "name": "Love Hina",
+    "russian": "Любовь и Хина",
+    "image": {
+      "original": "/system/mangas/original/16.jpg?1647814410",
+      "preview": "/system/mangas/preview/16.jpg?1647814410",
+      "x96": "/system/mangas/x96/16.jpg?1647814410",
+      "x48": "/system/mangas/x48/16.jpg?1647814410"
+    },
+    "url": "/mangas/16-love-hina",
+    "kind": "manga",
+    "score": "7.82",
+    "status": "released",
+    "volumes": 14,
+    "chapters": 120,
+    "aired_on": "1998-10-21",
+    "released_on": "2001-10-31",
+    "english": [
+      "Love Hina"
+    ],
+    "japanese": [
+      "ラブひな"
+    ],
+    "synonyms": [],
+    "license_name_ru": "С любовью, Хина",
+    "description": "Наверно, каждый нормальный парень в возрасте от 15 до 40 лет мечтает, чтобы у него был личный гарем. Однако за мармеладной сказкой порой скрывается горько-солёная действительность.\r\nЗнакомтесь: Кэйтаро Урасима, 20 лет, 2 раза проваливал вступительные экзамены в Тодай. Мечта — наконец-то поступить, а уже там найти девушку, которой обещал своё сердце 15 лет назад. Но вот незадача: ни её лица, ни имени этот олух не помнит.\r\nВ попытке избавиться от лишней нагрузки на свой кошелёк, он приезжает в гостиницу Хината, которая принадлежит его бабушке. Тут-то он и попадает в настоящий рай, в котором живут прекрасные ангелы...\r\nЭти самые «ангелы» умудрились выкинуть его из общежития, ведь Хината теперь не отель, а женское общежитие, в которое вход парням категорически воспрещён под предлогом неминуемой, мучительной и, вероятно, продолжительной смерти.\r\nНо Кэйтаро вернулся в новой ипостаси: теперь он владелец этого общежития и может жить тут на вполне законных основаниях.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Наверно, каждый нормальный парень в возрасте от 15 до 40 лет мечтает, чтобы у него был личный гарем. Однако за мармеладной сказкой порой скрывается горько-солёная действительность.<br>Знакомтесь: <a href=\"https://shikimori.one/characters/1037-keitarou-urashima\" title=\"Keitarou Urashima\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/1037-keitarou-urashima/tooltip\" data-attrs=\"{&quot;id&quot;:1037,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Keitarou Urashima&quot;,&quot;russian&quot;:&quot;Кэйтаро Урасима&quot;}\">Кэйтаро Урасима</a>, 20 лет, 2 раза проваливал вступительные экзамены в Тодай. Мечта — наконец-то поступить, а уже там найти девушку, которой обещал своё сердце 15 лет назад. Но вот незадача: ни её лица, ни имени этот олух не помнит.<br>В попытке избавиться от лишней нагрузки на свой кошелёк, он приезжает в гостиницу Хината, которая принадлежит его бабушке. Тут-то он и попадает в настоящий рай, в котором живут прекрасные ангелы...<br>Эти самые «ангелы» умудрились выкинуть его из общежития, ведь Хината теперь не отель, а женское общежитие, в которое вход парням категорически воспрещён под предлогом неминуемой, мучительной и, вероятно, продолжительной смерти.<br>Но <a href=\"https://shikimori.one/characters/1037-keitarou-urashima\" title=\"Keitarou Urashima\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/1037-keitarou-urashima/tooltip\" data-attrs=\"{&quot;id&quot;:1037,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Keitarou Urashima&quot;,&quot;russian&quot;:&quot;Кэйтаро Урасима&quot;}\">Кэйтаро</a> вернулся в новой ипостаси: теперь он владелец этого общежития и может жить тут на вполне законных основаниях.</div>",
+    "description_source": "https://readmanga.live/love_hina",
+    "franchise": "love_hina",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 11070,
+    "topic_id": 11070,
+    "myanimelist_id": 16,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 43
+      },
+      {
+        "name": 9,
+        "value": 47
+      },
+      {
+        "name": 8,
+        "value": 82
+      },
+      {
+        "name": 7,
+        "value": 43
+      },
+      {
+        "name": 6,
+        "value": 31
+      },
+      {
+        "name": 5,
+        "value": 11
+      },
+      {
+        "name": 4,
+        "value": 3
+      },
+      {
+        "name": 3,
+        "value": 5
+      },
+      {
+        "name": 2,
+        "value": 1
+      },
+      {
+        "name": 1,
+        "value": 3
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 625
+      },
+      {
+        "name": "Прочитано",
+        "value": 368
+      },
+      {
+        "name": "Читаю",
+        "value": 82
+      },
+      {
+        "name": "Брошено",
+        "value": 59
+      },
+      {
+        "name": "Отложено",
+        "value": 35
+      }
+    ],
+    "licensors": [
+      "Комикс-Арт"
+    ],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 51,
+        "name": "Ecchi",
+        "russian": "Этти",
+        "kind": "manga"
+      },
+      {
+        "id": 71,
+        "name": "Harem",
+        "russian": "Гарем",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 8,
+        "name": "Shounen Magazine (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 21,
+    "name": "Death Note",
+    "russian": "Тетрадь смерти",
+    "image": {
+      "original": "/system/mangas/original/21.jpg?1649522719",
+      "preview": "/system/mangas/preview/21.jpg?1649522719",
+      "x96": "/system/mangas/x96/21.jpg?1649522719",
+      "x48": "/system/mangas/x48/21.jpg?1649522719"
+    },
+    "url": "/mangas/z21-death-note",
+    "kind": "manga",
+    "score": "8.71",
+    "status": "released",
+    "volumes": 12,
+    "chapters": 108,
+    "aired_on": "2003-12-01",
+    "released_on": "2006-05-15",
+    "english": [
+      "Death Note"
+    ],
+    "japanese": [
+      "DEATH NOTE"
+    ],
+    "synonyms": [],
+    "license_name_ru": "Death Note. Black Edition",
+    "description": "[character=80]Лайт Ягами[/character] — образцовый 17-летний выпускник, баллы за экзамены которого находятся в первых строках рейтинга всей Японии. Сидя на уроке, он замечает, что за окном что-то упало. На перемене он поднимает загадочный предмет и им оказывается черная тетрадь с надписью «Тетрадь смерти». Внутри была инструкция по использованию: \"Человек, имя которого будет записано в тетради, умрет\". Имея свои взгляды на систему наказания, [character=80]Лайт[/character] решает установить собственное правосудие, использовать тетрадь для «очищения» мира от зла — убивать преступников.\r\nКогда действия [character=80]Лайта[/character] становятся заметны для мирового правительства, на след неуловимого «Киры» (так мир окрестил нового мессию, решившего искоренить зло на планете) выходит детектив мирового класса, называющий себя «L», который поставил себе целью разоблачить убийцу. Так начинается одно из самых психологичных, напряженных и сильных противостояний в истории японской манги, величайшая битва умов.",
+    "description_html": "<div class=\"b-text_with_paragraphs\"><a href=\"https://shikimori.one/characters/80-light-yagami\" title=\"Light Yagami\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/80-light-yagami/tooltip\" data-attrs=\"{&quot;id&quot;:80,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Light Yagami&quot;,&quot;russian&quot;:&quot;Лайт Ягами&quot;}\">Лайт Ягами</a> — образцовый 17-летний выпускник, баллы за экзамены которого находятся в первых строках рейтинга всей Японии. Сидя на уроке, он замечает, что за окном что-то упало. На перемене он поднимает загадочный предмет и им оказывается черная тетрадь с надписью «Тетрадь смерти». Внутри была инструкция по использованию: \"Человек, имя которого будет записано в тетради, умрет\". Имея свои взгляды на систему наказания, <a href=\"https://shikimori.one/characters/80-light-yagami\" title=\"Light Yagami\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/80-light-yagami/tooltip\" data-attrs=\"{&quot;id&quot;:80,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Light Yagami&quot;,&quot;russian&quot;:&quot;Лайт Ягами&quot;}\">Лайт</a> решает установить собственное правосудие, использовать тетрадь для «очищения» мира от зла — убивать преступников.<br>Когда действия <a href=\"https://shikimori.one/characters/80-light-yagami\" title=\"Light Yagami\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/80-light-yagami/tooltip\" data-attrs=\"{&quot;id&quot;:80,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Light Yagami&quot;,&quot;russian&quot;:&quot;Лайт Ягами&quot;}\">Лайта</a> становятся заметны для мирового правительства, на след неуловимого «Киры» (так мир окрестил нового мессию, решившего искоренить зло на планете) выходит детектив мирового класса, называющий себя «L», который поставил себе целью разоблачить убийцу. Так начинается одно из самых психологичных, напряженных и сильных противостояний в истории японской манги, величайшая битва умов.</div>",
+    "description_source": null,
+    "franchise": "death_note",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 11091,
+    "topic_id": 11091,
+    "myanimelist_id": 21,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 2350
+      },
+      {
+        "name": 9,
+        "value": 1256
+      },
+      {
+        "name": 8,
+        "value": 1041
+      },
+      {
+        "name": 7,
+        "value": 511
+      },
+      {
+        "name": 6,
+        "value": 177
+      },
+      {
+        "name": 5,
+        "value": 72
+      },
+      {
+        "name": 4,
+        "value": 23
+      },
+      {
+        "name": 3,
+        "value": 3
+      },
+      {
+        "name": 2,
+        "value": 9
+      },
+      {
+        "name": 1,
+        "value": 10
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 5313
+      },
+      {
+        "name": "Прочитано",
+        "value": 10300
+      },
+      {
+        "name": "Читаю",
+        "value": 1504
+      },
+      {
+        "name": "Брошено",
+        "value": 387
+      },
+      {
+        "name": "Отложено",
+        "value": 490
+      }
+    ],
+    "licensors": [
+      "Комикс-Арт",
+      "Азбука-Аттикус"
+    ],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 46,
+        "name": "Mystery",
+        "russian": "Детектив",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      },
+      {
+        "id": 67,
+        "name": "Psychological",
+        "russian": "Психологическое",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 83,
+        "name": "Shounen Jump (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 31,
+    "name": "Lovely★Complex",
+    "russian": "Трогательный комплекс",
+    "image": {
+      "original": "/system/mangas/original/31.jpg?1648075598",
+      "preview": "/system/mangas/preview/31.jpg?1648075598",
+      "x96": "/system/mangas/x96/31.jpg?1648075598",
+      "x48": "/system/mangas/x48/31.jpg?1648075598"
+    },
+    "url": "/mangas/31-lovely-complex",
+    "kind": "manga",
+    "score": "8.35",
+    "status": "released",
+    "volumes": 17,
+    "chapters": 68,
+    "aired_on": "2001-08-13",
+    "released_on": "2007-08-13",
+    "english": [
+      "Love★Com"
+    ],
+    "japanese": [
+      "ラブ★コン"
+    ],
+    "synonyms": [
+      "Love Com Plus",
+      "Lovely Complex Plus"
+    ],
+    "license_name_ru": null,
+    "description": "У Отани[大谷敦士] и Рисы[小泉リサ] есть кое-что общее. Никто из них ни с кем не встречается, а многие в школе частенько смеются над этим комедийным дуэтом, как прозвал их любящий сенсей. А еще у них проблемы с ростом! Риса слишком высока для своего возраста. а Отани, наоборот, слишком низок. Жаждущие отношений, они подбадривают друг друга во всех любовных начинаниях. Но спустя некоторое время Риса начинает испытывать к парню самую настоящую симпатию... Взаимны ли эти чувства? Победит ли любовь, невзирая на рост?",
+    "description_html": "<div class=\"b-text_with_paragraphs\">У <a href=\"https://shikimori.one/characters/2380-atsushi-ootani\" title=\"Atsushi Ootani\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2380-atsushi-ootani/tooltip\" data-attrs=\"{&quot;id&quot;:2380,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Atsushi Ootani&quot;,&quot;russian&quot;:&quot;Ацуси Отани&quot;}\">Отани</a> и <a href=\"https://shikimori.one/characters/2379-risa-koizumi\" title=\"Risa Koizumi\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2379-risa-koizumi/tooltip\" data-attrs=\"{&quot;id&quot;:2379,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Risa Koizumi&quot;,&quot;russian&quot;:&quot;Риса Коидзуми&quot;}\">Рисы</a> есть кое-что общее. Никто из них ни с кем не встречается, а многие в школе частенько смеются над этим комедийным дуэтом, как прозвал их любящий сенсей. А еще у них проблемы с ростом! <a href=\"https://shikimori.one/characters/2379-risa-koizumi\" title=\"Risa Koizumi\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2379-risa-koizumi/tooltip\" data-attrs=\"{&quot;id&quot;:2379,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Risa Koizumi&quot;,&quot;russian&quot;:&quot;Риса Коидзуми&quot;}\">Риса</a> слишком высока для своего возраста. а <a href=\"https://shikimori.one/characters/2380-atsushi-ootani\" title=\"Atsushi Ootani\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2380-atsushi-ootani/tooltip\" data-attrs=\"{&quot;id&quot;:2380,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Atsushi Ootani&quot;,&quot;russian&quot;:&quot;Ацуси Отани&quot;}\">Отани</a>, наоборот, слишком низок. Жаждущие отношений, они подбадривают друг друга во всех любовных начинаниях. Но спустя некоторое время <a href=\"https://shikimori.one/characters/2379-risa-koizumi\" title=\"Risa Koizumi\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2379-risa-koizumi/tooltip\" data-attrs=\"{&quot;id&quot;:2379,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Risa Koizumi&quot;,&quot;russian&quot;:&quot;Риса Коидзуми&quot;}\">Риса</a> начинает испытывать к парню самую настоящую симпатию... Взаимны ли эти чувства? Победит ли любовь, невзирая на рост?</div>",
+    "description_source": null,
+    "franchise": "lovely_complex",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 11180,
+    "topic_id": 11180,
+    "myanimelist_id": 31,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 364
+      },
+      {
+        "name": 9,
+        "value": 205
+      },
+      {
+        "name": 8,
+        "value": 237
+      },
+      {
+        "name": 7,
+        "value": 121
+      },
+      {
+        "name": 6,
+        "value": 36
+      },
+      {
+        "name": 5,
+        "value": 21
+      },
+      {
+        "name": 4,
+        "value": 5
+      },
+      {
+        "name": 3,
+        "value": 1
+      },
+      {
+        "name": 2,
+        "value": 2
+      },
+      {
+        "name": 1,
+        "value": 7
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 1300
+      },
+      {
+        "name": "Прочитано",
+        "value": 2273
+      },
+      {
+        "name": "Читаю",
+        "value": 130
+      },
+      {
+        "name": "Брошено",
+        "value": 80
+      },
+      {
+        "name": "Отложено",
+        "value": 68
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 60,
+        "name": "School",
+        "russian": "Школа",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 53,
+        "name": "Bessatsu Margaret"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 11396,
+    "name": "Aza",
+    "russian": "",
+    "image": {
+      "original": "/system/mangas/original/11396.jpg?1647966379",
+      "preview": "/system/mangas/preview/11396.jpg?1647966379",
+      "x96": "/system/mangas/x96/11396.jpg?1647966379",
+      "x48": "/system/mangas/x48/11396.jpg?1647966379"
+    },
+    "url": "/mangas/11396-aza",
+    "kind": "manga",
+    "score": "0.0",
+    "status": "released",
+    "volumes": 2,
+    "chapters": 0,
+    "aired_on": null,
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "あざ"
+    ],
+    "synonyms": [
+      "Mole"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 11396,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 10
+      },
+      {
+        "name": "Брошено",
+        "value": 2
+      },
+      {
+        "name": "Отложено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 52,
+        "name": "Seinen",
+        "russian": "Сэйнэн",
+        "kind": "manga"
+      },
+      {
+        "id": 69,
+        "name": "Historical",
+        "russian": "Исторический",
+        "kind": "manga"
+      },
+      {
+        "id": 88,
+        "name": "Samurai",
+        "russian": "Самураи",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 11402,
+    "name": "Open Sesame",
+    "russian": "Сезам, откройся",
+    "image": {
+      "original": "/system/mangas/original/11402.jpg?1647966457",
+      "preview": "/system/mangas/preview/11402.jpg?1647966457",
+      "x96": "/system/mangas/x96/11402.jpg?1647966457",
+      "x48": "/system/mangas/x48/11402.jpg?1647966457"
+    },
+    "url": "/mangas/11402-open-sesame",
+    "kind": "manga",
+    "score": "6.81",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 5,
+    "aired_on": null,
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "オープンセサミ"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 11402,
+    "rates_scores_stats": [
+      {
+        "name": 7,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 12
+      },
+      {
+        "name": "Брошено",
+        "value": 3
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 3150,
+    "name": "Captain Tsubasa: World Youth Tokubetsu-hen - Saikyou no Teki! Holland Youth",
+    "russian": "Капитан Цубаса: Сильнейший противник! Голландская молодёжь",
+    "image": {
+      "original": "/system/mangas/original/3150.jpg?1647671412",
+      "preview": "/system/mangas/preview/3150.jpg?1647671412",
+      "x96": "/system/mangas/x96/3150.jpg?1647671412",
+      "x48": "/system/mangas/x48/3150.jpg?1647671412"
+    },
+    "url": "/mangas/3150-captain-tsubasa-world-youth-tokubetsu-hen-saikyou-no-teki-holland-youth",
+    "kind": "manga",
+    "score": "6.63",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 11,
+    "aired_on": "1993-03-16",
+    "released_on": "1993-04-13",
+    "english": [
+      null
+    ],
+    "japanese": [
+      "キャプテン翼 ワールドユース特別編 最強の敵! オランダユース"
+    ],
+    "synonyms": [
+      "Captain Tsubasa: The Strongest Opponent! Holland Youth"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": "captain_tsubasa",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 3150,
+    "rates_scores_stats": [
+      {
+        "name": 9,
+        "value": 1
+      },
+      {
+        "name": 6,
+        "value": 2
+      },
+      {
+        "name": 5,
+        "value": 1
+      },
+      {
+        "name": 1,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 7
+      },
+      {
+        "name": "Прочитано",
+        "value": 6
+      },
+      {
+        "name": "Брошено",
+        "value": 7
+      },
+      {
+        "name": "Отложено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 76,
+        "name": "Sports",
+        "russian": "Спорт",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 83,
+        "name": "Shounen Jump (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 46,
+    "name": "Kannade",
+    "russian": "Рука Бога",
+    "image": {
+      "original": "/system/mangas/original/46.jpg?1647813968",
+      "preview": "/system/mangas/preview/46.jpg?1647813968",
+      "x96": "/system/mangas/x96/46.jpg?1647813968",
+      "x48": "/system/mangas/x48/46.jpg?1647813968"
+    },
+    "url": "/mangas/46-kannade",
+    "kind": "manga",
+    "score": "6.84",
+    "status": "released",
+    "volumes": 2,
+    "chapters": 15,
+    "aired_on": "2003-09-22",
+    "released_on": "2003-12-15",
+    "english": [
+      null
+    ],
+    "japanese": [
+      "神撫手"
+    ],
+    "synonyms": [
+      "God's Hand"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 46,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 20
+      },
+      {
+        "name": "Брошено",
+        "value": 2
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 56,
+        "name": "Action",
+        "russian": "Экшен",
+        "kind": "manga"
+      },
+      {
+        "id": 46,
+        "name": "Mystery",
+        "russian": "Детектив",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 83,
+        "name": "Shounen Jump (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 48,
+    "name": "Pretty Face",
+    "russian": "Хорошенькое личико",
+    "image": {
+      "original": "/system/mangas/original/48.jpg?1647814317",
+      "preview": "/system/mangas/preview/48.jpg?1647814317",
+      "x96": "/system/mangas/x96/48.jpg?1647814317",
+      "x48": "/system/mangas/x48/48.jpg?1647814317"
+    },
+    "url": "/mangas/48-pretty-face",
+    "kind": "manga",
+    "score": "7.6",
+    "status": "released",
+    "volumes": 6,
+    "chapters": 53,
+    "aired_on": "2002-05-14",
+    "released_on": "2003-06-09",
+    "english": [
+      "Pretty Face"
+    ],
+    "japanese": [
+      "プリティフェイス"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": "Масаши Рандо - молодой парень, восходящая звезда карате. Однажды он попал в страшную автокатастрофу, но стараниями гения-извращенца Манабе выжил и даже получил \"новое\" лицо взамен пострадавшему в аварии. Только по иронии судьбы на фото, с которого хирург \"рисовал\" новое лицо, был изображён не Рандо, а его возлюбленная девушка...",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Масаши Рандо - молодой парень, восходящая звезда карате. Однажды он попал в страшную автокатастрофу, но стараниями гения-извращенца Манабе выжил и даже получил \"новое\" лицо взамен пострадавшему в аварии. Только по иронии судьбы на фото, с которого хирург \"рисовал\" новое лицо, был изображён не Рандо, а его возлюбленная девушка...</div>",
+    "description_source": "https://readmanga.live/pretty_face",
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 11328,
+    "topic_id": 11328,
+    "myanimelist_id": 48,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 12
+      },
+      {
+        "name": 9,
+        "value": 29
+      },
+      {
+        "name": 8,
+        "value": 71
+      },
+      {
+        "name": 7,
+        "value": 66
+      },
+      {
+        "name": 6,
+        "value": 34
+      },
+      {
+        "name": 5,
+        "value": 10
+      },
+      {
+        "name": 4,
+        "value": 4
+      },
+      {
+        "name": 3,
+        "value": 1
+      },
+      {
+        "name": 1,
+        "value": 4
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 247
+      },
+      {
+        "name": "Прочитано",
+        "value": 346
+      },
+      {
+        "name": "Читаю",
+        "value": 29
+      },
+      {
+        "name": "Брошено",
+        "value": 27
+      },
+      {
+        "name": "Отложено",
+        "value": 14
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 51,
+        "name": "Ecchi",
+        "russian": "Этти",
+        "kind": "manga"
+      },
+      {
+        "id": 74,
+        "name": "Gender Bender",
+        "russian": "Смена пола",
+        "kind": "manga"
+      },
+      {
+        "id": 60,
+        "name": "School",
+        "russian": "Школа",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 83,
+        "name": "Shounen Jump (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 52,
+    "name": "Whistle!",
+    "russian": "Свисток!",
+    "image": {
+      "original": "/system/mangas/original/52.jpg?1647814248",
+      "preview": "/system/mangas/preview/52.jpg?1647814248",
+      "x96": "/system/mangas/x96/52.jpg?1647814248",
+      "x48": "/system/mangas/x48/52.jpg?1647814248"
+    },
+    "url": "/mangas/52-whistle",
+    "kind": "manga",
+    "score": "7.75",
+    "status": "released",
+    "volumes": 24,
+    "chapters": 216,
+    "aired_on": "1998-02-24",
+    "released_on": "2002-10-08",
+    "english": [
+      "Whistle!"
+    ],
+    "japanese": [
+      "ホイッスル!"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": "У каждого человека есть мечта. А мечта обычного мальчишки по имени Сё Кадзамацури — стать первоклассным футболистом. Он лидер в своей команде, и все взгляды обращены к нему. В свою очередь, этот юный и упорный спортсмен любой ценой старается сохранить боевой дух команды.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">У каждого человека есть мечта. А мечта обычного мальчишки по имени <a href=\"https://shikimori.one/characters/4699-shou-kazamatsuri\" title=\"Shou Kazamatsuri\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/4699-shou-kazamatsuri/tooltip\" data-attrs=\"{&quot;id&quot;:4699,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Shou Kazamatsuri&quot;,&quot;russian&quot;:&quot;Сё Кадзамацури&quot;}\">Сё Кадзамацури</a> — стать первоклассным футболистом. Он лидер в своей команде, и все взгляды обращены к нему. В свою очередь, этот юный и упорный спортсмен любой ценой старается сохранить боевой дух команды.</div>",
+    "description_source": null,
+    "franchise": "whistle",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 52,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 1
+      },
+      {
+        "name": 9,
+        "value": 1
+      },
+      {
+        "name": 8,
+        "value": 1
+      },
+      {
+        "name": 7,
+        "value": 3
+      },
+      {
+        "name": 6,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 65
+      },
+      {
+        "name": "Прочитано",
+        "value": 15
+      },
+      {
+        "name": "Читаю",
+        "value": 5
+      },
+      {
+        "name": "Брошено",
+        "value": 8
+      },
+      {
+        "name": "Отложено",
+        "value": 4
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 76,
+        "name": "Sports",
+        "russian": "Спорт",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 83,
+        "name": "Shounen Jump (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 12166,
+    "name": "Nippon Mukashibanashi",
+    "russian": "",
+    "image": {
+      "original": "/system/mangas/original/12166.jpg?1648167432",
+      "preview": "/system/mangas/preview/12166.jpg?1648167432",
+      "x96": "/system/mangas/x96/12166.jpg?1648167432",
+      "x48": "/system/mangas/x48/12166.jpg?1648167432"
+    },
+    "url": "/mangas/12166-nippon-mukashibanashi",
+    "kind": "manga",
+    "score": "0.0",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 11,
+    "aired_on": "2000-12-01",
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "ニッポン昔話"
+    ],
+    "synonyms": [
+      "Nippon Mukashi Banashi",
+      "Japanese Folk Tales",
+      "Tales of Old Japan"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 12166,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 12
+      },
+      {
+        "name": "Брошено",
+        "value": 2
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 69,
+        "name": "Historical",
+        "russian": "Исторический",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 587,
+    "name": "Lucky☆Star",
+    "russian": "Счастливая звезда",
+    "image": {
+      "original": "/system/mangas/original/587.jpg?1647828081",
+      "preview": "/system/mangas/preview/587.jpg?1647828081",
+      "x96": "/system/mangas/x96/587.jpg?1647828081",
+      "x48": "/system/mangas/x48/587.jpg?1647828081"
+    },
+    "url": "/mangas/587-lucky-star",
+    "kind": "manga",
+    "score": "7.86",
+    "status": "ongoing",
+    "volumes": 0,
+    "chapters": 0,
+    "aired_on": "2003-12-10",
+    "released_on": null,
+    "english": [
+      "Lucky☆Star"
+    ],
+    "japanese": [
+      "らき☆すた"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": "В этой истории автор показывает жизнь нескольких девочек, которые посещают японскую старшую школу. Они живут в Касукабэ, префектура Сайтама. Главной героиней является Коната Изуми, спортивная и умная девушка, которая, несмотря на все эти качества, не состоит ни в каком клубе и имеет низкие оценки. Лень в школе и безразличие к жизни девушки объясняется чрезмерной любовью к аниме и компьютерным играм.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">В этой истории автор показывает жизнь нескольких девочек, которые посещают японскую старшую школу. Они живут в Касукабэ, префектура Сайтама. Главной героиней является <a href=\"https://shikimori.one/characters/2169-konata-izumi\" title=\"Konata Izumi\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2169-konata-izumi/tooltip\" data-attrs=\"{&quot;id&quot;:2169,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Konata Izumi&quot;,&quot;russian&quot;:&quot;Коната Изуми&quot;}\">Коната Изуми</a>, спортивная и умная девушка, которая, несмотря на все эти качества, не состоит ни в каком клубе и имеет низкие оценки. Лень в школе и безразличие к жизни девушки объясняется чрезмерной любовью к аниме и компьютерным играм.</div>",
+    "description_source": null,
+    "franchise": "lucky_star",
+    "favoured": false,
+    "anons": false,
+    "ongoing": true,
+    "thread_id": 16123,
+    "topic_id": 16123,
+    "myanimelist_id": 587,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 35
+      },
+      {
+        "name": 9,
+        "value": 12
+      },
+      {
+        "name": 8,
+        "value": 27
+      },
+      {
+        "name": 7,
+        "value": 20
+      },
+      {
+        "name": 6,
+        "value": 7
+      },
+      {
+        "name": 5,
+        "value": 5
+      },
+      {
+        "name": 3,
+        "value": 1
+      },
+      {
+        "name": 1,
+        "value": 3
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 503
+      },
+      {
+        "name": "Прочитано",
+        "value": 117
+      },
+      {
+        "name": "Читаю",
+        "value": 115
+      },
+      {
+        "name": "Брошено",
+        "value": 45
+      },
+      {
+        "name": "Отложено",
+        "value": 51
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 54,
+        "name": "Slice of Life",
+        "russian": "Повседневность",
+        "kind": "manga"
+      },
+      {
+        "id": 86,
+        "name": "Parody",
+        "russian": "Пародия",
+        "kind": "manga"
+      },
+      {
+        "id": 60,
+        "name": "School",
+        "russian": "Школа",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 38,
+        "name": "Comptiq"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 16857,
+    "name": "Qing You Du Zhong",
+    "russian": "",
+    "image": {
+      "original": "/system/mangas/original/16857.jpg?1648424790",
+      "preview": "/system/mangas/preview/16857.jpg?1648424790",
+      "x96": "/system/mangas/x96/16857.jpg?1648424790",
+      "x48": "/system/mangas/x48/16857.jpg?1648424790"
+    },
+    "url": "/mangas/16857-qing-you-du-zhong",
+    "kind": "manhua",
+    "score": "0.0",
+    "status": "ongoing",
+    "volumes": 0,
+    "chapters": 0,
+    "aired_on": "2008-01-01",
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      null
+    ],
+    "synonyms": [
+      "情有獨鍾",
+      "Only Love You"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": true,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 16857,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 11
+      },
+      {
+        "name": "Прочитано",
+        "value": 1
+      },
+      {
+        "name": "Брошено",
+        "value": 3
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 69,
+        "name": "Historical",
+        "russian": "Исторический",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 11412,
+    "name": "Ranman",
+    "russian": "",
+    "image": {
+      "original": "/system/mangas/original/11412.jpg?1647967668",
+      "preview": "/system/mangas/preview/11412.jpg?1647967668",
+      "x96": "/system/mangas/x96/11412.jpg?1647967668",
+      "x48": "/system/mangas/x48/11412.jpg?1647967668"
+    },
+    "url": "/mangas/11412-ranman",
+    "kind": "manga",
+    "score": "6.49",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 4,
+    "aired_on": "2002-01-01",
+    "released_on": "2006-01-01",
+    "english": [
+      "Ranman"
+    ],
+    "japanese": [
+      "乱漫"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 11412,
+    "rates_scores_stats": [
+      {
+        "name": 6,
+        "value": 2
+      },
+      {
+        "name": 5,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 5
+      },
+      {
+        "name": "Прочитано",
+        "value": 4
+      },
+      {
+        "name": "Брошено",
+        "value": 2
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 57,
+        "name": "Fantasy",
+        "russian": "Фэнтези",
+        "kind": "manga"
+      },
+      {
+        "id": 53,
+        "name": "Sci-Fi",
+        "russian": "Фантастика",
+        "kind": "manga"
+      },
+      {
+        "id": 54,
+        "name": "Slice of Life",
+        "russian": "Повседневность",
+        "kind": "manga"
+      },
+      {
+        "id": 67,
+        "name": "Psychological",
+        "russian": "Психологическое",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 11996,
+    "name": "Anonymous",
+    "russian": "Анонимные",
+    "image": {
+      "original": "/system/mangas/original/11996.jpg?1648165187",
+      "preview": "/system/mangas/preview/11996.jpg?1648165187",
+      "x96": "/system/mangas/x96/11996.jpg?1648165187",
+      "x48": "/system/mangas/x48/11996.jpg?1648165187"
+    },
+    "url": "/mangas/11996-anonymous",
+    "kind": "manga",
+    "score": "6.35",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 6,
+    "aired_on": "2008-05-01",
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "アノニマス"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": "Тайная организация \"Аноним\" воспитывает из детей идеальных убийц, взамен\n забирая у них воспоминания, чувства и даже имена. Но действительно ли они настолько бездушные люди, и может быть даже в их несчастных сердцах осталась толика доброты? Цепь историй о воспитанниках \"Анонима\" дает ответ на этот вопрос.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Тайная организация \"Аноним\" воспитывает из детей идеальных убийц, взамен<br> забирая у них воспоминания, чувства и даже имена. Но действительно ли они настолько бездушные люди, и может быть даже в их несчастных сердцах осталась толика доброты? Цепь историй о воспитанниках \"Анонима\" дает ответ на этот вопрос.</div>",
+    "description_source": "https://readmanga.live/anonymous",
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 11996,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 1
+      },
+      {
+        "name": 9,
+        "value": 1
+      },
+      {
+        "name": 8,
+        "value": 1
+      },
+      {
+        "name": 7,
+        "value": 8
+      },
+      {
+        "name": 6,
+        "value": 7
+      },
+      {
+        "name": 5,
+        "value": 7
+      },
+      {
+        "name": 4,
+        "value": 3
+      },
+      {
+        "name": 3,
+        "value": 2
+      },
+      {
+        "name": 2,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 31
+      },
+      {
+        "name": "Прочитано",
+        "value": 42
+      },
+      {
+        "name": "Читаю",
+        "value": 6
+      },
+      {
+        "name": "Брошено",
+        "value": 4
+      },
+      {
+        "name": "Отложено",
+        "value": 2
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 56,
+        "name": "Action",
+        "russian": "Экшен",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 421,
+        "name": "Sylph"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 8,
+    "name": "Full Moon wo Sagashite",
+    "russian": "В поисках полной луны",
+    "image": {
+      "original": "/system/mangas/original/8.jpg?1647813548",
+      "preview": "/system/mangas/preview/8.jpg?1647813548",
+      "x96": "/system/mangas/x96/8.jpg?1647813548",
+      "x48": "/system/mangas/x48/8.jpg?1647813548"
+    },
+    "url": "/mangas/8-full-moon-wo-sagashite",
+    "kind": "manga",
+    "score": "8.05",
+    "status": "released",
+    "volumes": 7,
+    "chapters": 35,
+    "aired_on": "2001-12-01",
+    "released_on": "2004-04-30",
+    "english": [
+      "Full Moon wo Sagashite"
+    ],
+    "japanese": [
+      "満月〈フルムーン〉をさがして"
+    ],
+    "synonyms": [
+      "Searching for the Full Moon",
+      "Ginyuu Meika"
+    ],
+    "license_name_ru": null,
+    "description": "Главная героиня Мицуки, 12-ти летняя девочка обладает прекрасным талантом - красивым голосом и обожает петь. Но к несчастью, строгая бабушка и рак горла не позволяют ей заниматься любимым делом. Несмотря на то, что ей предстоит умереть через год, она отказывается от операции, чтобы не потерять голос.\r\nСтановится известно, что некто должен спасти Мицуки, и, чтобы помешать этому, на землю спускаются два синигами. Но вместо того, чтобы забрать душу Мицуки, они решают помочь ей. Они изредка превращают Мицуки в 16-ти летнюю девушку, и в таком облике она может начать карьеру певицы и приблизиться к еще одной самой ее заветной мечте.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Главная героиня Мицуки, 12-ти летняя девочка обладает прекрасным талантом - красивым голосом и обожает петь. Но к несчастью, строгая бабушка и рак горла не позволяют ей заниматься любимым делом. Несмотря на то, что ей предстоит умереть через год, она отказывается от операции, чтобы не потерять голос.<br>Становится известно, что некто должен спасти Мицуки, и, чтобы помешать этому, на землю спускаются два синигами. Но вместо того, чтобы забрать душу Мицуки, они решают помочь ей. Они изредка превращают Мицуки в 16-ти летнюю девушку, и в таком облике она может начать карьеру певицы и приблизиться к еще одной самой ее заветной мечте.</div>",
+    "description_source": "https://readmanga.live/searching_for_the_full_moon",
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 10983,
+    "topic_id": 10983,
+    "myanimelist_id": 8,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 59
+      },
+      {
+        "name": 9,
+        "value": 28
+      },
+      {
+        "name": 8,
+        "value": 40
+      },
+      {
+        "name": 7,
+        "value": 27
+      },
+      {
+        "name": 6,
+        "value": 13
+      },
+      {
+        "name": 5,
+        "value": 9
+      },
+      {
+        "name": 4,
+        "value": 1
+      },
+      {
+        "name": 3,
+        "value": 1
+      },
+      {
+        "name": 2,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 298
+      },
+      {
+        "name": "Прочитано",
+        "value": 399
+      },
+      {
+        "name": "Читаю",
+        "value": 33
+      },
+      {
+        "name": "Брошено",
+        "value": 19
+      },
+      {
+        "name": "Отложено",
+        "value": 10
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 57,
+        "name": "Fantasy",
+        "russian": "Фэнтези",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      },
+      {
+        "id": 78,
+        "name": "Music",
+        "russian": "Музыка",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 9,
+        "name": "Ribon Magazine"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 1254,
+    "name": "Mai-Otome Arashi",
+    "russian": "Май-Отомэ: Буря",
+    "image": {
+      "original": "/system/mangas/original/1254.jpg?1647725951",
+      "preview": "/system/mangas/preview/1254.jpg?1647725951",
+      "x96": "/system/mangas/x96/1254.jpg?1647725951",
+      "x48": "/system/mangas/x48/1254.jpg?1647725951"
+    },
+    "url": "/mangas/1254-mai-otome-arashi",
+    "kind": "manga",
+    "score": "6.86",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 7,
+    "aired_on": "2006-01-01",
+    "released_on": "2007-05-17",
+    "english": [
+      "My-Otome Arashi"
+    ],
+    "japanese": [
+      "舞-乙HiME 嵐"
+    ],
+    "synonyms": [
+      "My-Otome Arashi",
+      "Mai Otome Arashi"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": "mai_hime",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 1254,
+    "rates_scores_stats": [
+      {
+        "name": 7,
+        "value": 2
+      },
+      {
+        "name": 5,
+        "value": 1
+      },
+      {
+        "name": 1,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 17
+      },
+      {
+        "name": "Прочитано",
+        "value": 6
+      },
+      {
+        "name": "Брошено",
+        "value": 4
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 56,
+        "name": "Action",
+        "russian": "Экшен",
+        "kind": "manga"
+      },
+      {
+        "id": 68,
+        "name": "Adventure",
+        "russian": "Приключения",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 51,
+        "name": "Ecchi",
+        "russian": "Этти",
+        "kind": "manga"
+      },
+      {
+        "id": 71,
+        "name": "Harem",
+        "russian": "Гарем",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 60,
+    "name": "π",
+    "russian": "Пи",
+    "image": {
+      "original": "/system/mangas/original/60.jpg?1647814509",
+      "preview": "/system/mangas/preview/60.jpg?1647814509",
+      "x96": "/system/mangas/x96/60.jpg?1647814509",
+      "x48": "/system/mangas/x48/60.jpg?1647814509"
+    },
+    "url": "/mangas/60-",
+    "kind": "manga",
+    "score": "0.0",
+    "status": "released",
+    "volumes": 9,
+    "chapters": 101,
+    "aired_on": "2002-09-09",
+    "released_on": "2005-02-21",
+    "english": [
+      null
+    ],
+    "japanese": [
+      "π（パイ）"
+    ],
+    "synonyms": [
+      "Pi"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 359510,
+    "topic_id": 359510,
+    "myanimelist_id": 60,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 31
+      },
+      {
+        "name": "Читаю",
+        "value": 1
+      },
+      {
+        "name": "Брошено",
+        "value": 5
+      },
+      {
+        "name": "Отложено",
+        "value": 2
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 52,
+        "name": "Seinen",
+        "russian": "Сэйнэн",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 51,
+        "name": "Ecchi",
+        "russian": "Этти",
+        "kind": "manga"
+      },
+      {
+        "id": 60,
+        "name": "School",
+        "russian": "Школа",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 3,
+        "name": "Big Comic Spirits"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 62,
+    "name": "± Junkie",
+    "russian": "Плюс-минус зависимая",
+    "image": {
+      "original": "/system/mangas/original/62.jpg?1647814464",
+      "preview": "/system/mangas/preview/62.jpg?1647814464",
+      "x96": "/system/mangas/x96/62.jpg?1647814464",
+      "x48": "/system/mangas/x48/62.jpg?1647814464"
+    },
+    "url": "/mangas/62-junkie",
+    "kind": "manga",
+    "score": "6.19",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 4,
+    "aired_on": "2003-06-03",
+    "released_on": "2003-09-03",
+    "english": [
+      null
+    ],
+    "japanese": [
+      "±ジャンキー"
+    ],
+    "synonyms": [
+      "Puramai Junkie",
+      "+/- Junkie"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 62,
+    "rates_scores_stats": [
+      {
+        "name": 5,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 11
+      },
+      {
+        "name": "Прочитано",
+        "value": 2
+      },
+      {
+        "name": "Брошено",
+        "value": 2
+      },
+      {
+        "name": "Отложено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 60,
+        "name": "School",
+        "russian": "Школа",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 9,
+        "name": "Ribon Magazine"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 64,
+    "name": "13 Nichi wa Kinyoubi?",
+    "russian": "Пятница — 13?",
+    "image": {
+      "original": "/system/mangas/original/64.jpg?1633943075",
+      "preview": "/system/mangas/preview/64.jpg?1633943075",
+      "x96": "/system/mangas/x96/64.jpg?1633943075",
+      "x48": "/system/mangas/x48/64.jpg?1633943075"
+    },
+    "url": "/mangas/64-13-nichi-wa-kinyoubi",
+    "kind": "manga",
+    "score": "6.75",
+    "status": "released",
+    "volumes": 3,
+    "chapters": 15,
+    "aired_on": "2003-03-03",
+    "released_on": "2004-10-18",
+    "english": [
+      null
+    ],
+    "japanese": [
+      "13日は金曜日?"
+    ],
+    "synonyms": [
+      "13 Nichi wa Kin youbi?",
+      "The 13th Is Friday",
+      "Shuugaku Ryoko no Susume",
+      "Time Capsule",
+      "Happy End no Tsukurikata"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 64,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 12
+      },
+      {
+        "name": "Брошено",
+        "value": 2
+      },
+      {
+        "name": "Отложено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 46,
+        "name": "Mystery",
+        "russian": "Детектив",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      },
+      {
+        "id": 60,
+        "name": "School",
+        "russian": "Школа",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 9,
+        "name": "Ribon Magazine"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 67,
+    "name": "2001-ya Monogatari",
+    "russian": "Две тысячи и одна ночь",
+    "image": {
+      "original": "/system/mangas/original/67.jpg?1634041801",
+      "preview": "/system/mangas/preview/67.jpg?1634041801",
+      "x96": "/system/mangas/x96/67.jpg?1634041801",
+      "x48": "/system/mangas/x48/67.jpg?1634041801"
+    },
+    "url": "/mangas/67-2001-ya-monogatari",
+    "kind": "manga",
+    "score": "7.8",
+    "status": "released",
+    "volumes": 3,
+    "chapters": 20,
+    "aired_on": "1984-05-05",
+    "released_on": "1986-05-06",
+    "english": [
+      "2001 Nights"
+    ],
+    "japanese": [
+      "2001夜物語"
+    ],
+    "synonyms": [],
+    "license_name_ru": "Две тысячи одна ночь во Вселенной",
+    "description": "Сборник коротких историй, посвященный исследованиям человеком космического пространства, а также изучению возможностей, с которыми мы могли бы столкнуться, решив сделать первые судьбоносные шаги в неизведанное.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Сборник коротких историй, посвященный исследованиям человеком космического пространства, а также изучению возможностей, с которыми мы могли бы столкнуться, решив сделать первые судьбоносные шаги в неизведанное.</div>",
+    "description_source": "https://readmanga.live/2001_nights",
+    "franchise": "2001",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 11458,
+    "topic_id": 11458,
+    "myanimelist_id": 67,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 7
+      },
+      {
+        "name": 9,
+        "value": 9
+      },
+      {
+        "name": 8,
+        "value": 17
+      },
+      {
+        "name": 7,
+        "value": 6
+      },
+      {
+        "name": 6,
+        "value": 4
+      },
+      {
+        "name": 5,
+        "value": 1
+      },
+      {
+        "name": 2,
+        "value": 1
+      },
+      {
+        "name": 1,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 308
+      },
+      {
+        "name": "Прочитано",
+        "value": 58
+      },
+      {
+        "name": "Читаю",
+        "value": 22
+      },
+      {
+        "name": "Брошено",
+        "value": 8
+      },
+      {
+        "name": "Отложено",
+        "value": 20
+      }
+    ],
+    "licensors": [
+      "Communication Asia Co."
+    ],
+    "genres": [
+      {
+        "id": 52,
+        "name": "Seinen",
+        "russian": "Сэйнэн",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 53,
+        "name": "Sci-Fi",
+        "russian": "Фантастика",
+        "kind": "manga"
+      },
+      {
+        "id": 85,
+        "name": "Space",
+        "russian": "Космос",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 11422,
+    "name": "Orange Bubble Gum",
+    "russian": "Апельсиновая жвачка",
+    "image": {
+      "original": "/system/mangas/original/11422.jpg?1647970327",
+      "preview": "/system/mangas/preview/11422.jpg?1647970327",
+      "x96": "/system/mangas/x96/11422.jpg?1647970327",
+      "x48": "/system/mangas/x48/11422.jpg?1647970327"
+    },
+    "url": "/mangas/11422-orange-bubble-gum",
+    "kind": "manhwa",
+    "score": "0.0",
+    "status": "released",
+    "volumes": 4,
+    "chapters": 23,
+    "aired_on": "1999-01-01",
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "오렌지 버블껌"
+    ],
+    "synonyms": [
+      "Orange Bubblegum"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 11422,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 10
+      },
+      {
+        "name": "Читаю",
+        "value": 1
+      },
+      {
+        "name": "Брошено",
+        "value": 1
+      },
+      {
+        "name": "Отложено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 49641,
+    "name": "Ghost☆Walker",
+    "russian": "",
+    "image": {
+      "original": "/system/mangas/original/49641.jpg?1636831412",
+      "preview": "/system/mangas/preview/49641.jpg?1636831412",
+      "x96": "/system/mangas/x96/49641.jpg?1636831412",
+      "x48": "/system/mangas/x48/49641.jpg?1636831412"
+    },
+    "url": "/mangas/49641-ghost-walker",
+    "kind": "manga",
+    "score": "0.0",
+    "status": "ongoing",
+    "volumes": 0,
+    "chapters": 0,
+    "aired_on": "2011-05-20",
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "ゴースト☆ウォーカー"
+    ],
+    "synonyms": [
+      "Ghost Walker"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": true,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 49641,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 6
+      },
+      {
+        "name": "Брошено",
+        "value": 5
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 55,
+        "name": "Shounen Ai",
+        "russian": "Сёнен-ай",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 286,
+        "name": "Ichiraci"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 123,
+    "name": "Tenshi no Su",
+    "russian": "Гнездо ангела",
+    "image": {
+      "original": "/system/mangas/original/123.jpg?1647815836",
+      "preview": "/system/mangas/preview/123.jpg?1647815836",
+      "x96": "/system/mangas/x96/123.jpg?1647815836",
+      "x48": "/system/mangas/x48/123.jpg?1647815836"
+    },
+    "url": "/mangas/123-tenshi-no-su",
+    "kind": "manga",
+    "score": "6.61",
+    "status": "released",
+    "volumes": 1,
+    "chapters": 7,
+    "aired_on": "2000-01-01",
+    "released_on": null,
+    "english": [
+      "Angel Nest"
+    ],
+    "japanese": [
+      "天使の巣"
+    ],
+    "synonyms": [
+      "God Knows Everything",
+      "Tea Time",
+      "Dispensation of Heaven",
+      "God Only Knows"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": "tenshi",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 123,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 15
+      },
+      {
+        "name": "Прочитано",
+        "value": 3
+      },
+      {
+        "name": "Брошено",
+        "value": 3
+      },
+      {
+        "name": "Отложено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 87,
+        "name": "Josei",
+        "russian": "Дзёсей",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [],
+    "user_rate": null
+  },
+  {
+    "id": 4,
+    "name": "Yokohama Kaidashi Kikou",
+    "russian": "Путевые заметки о поездке за покупками в Йокогаму",
+    "image": {
+      "original": "/system/mangas/original/4.jpg?1648075803",
+      "preview": "/system/mangas/preview/4.jpg?1648075803",
+      "x96": "/system/mangas/x96/4.jpg?1648075803",
+      "x48": "/system/mangas/x48/4.jpg?1648075803"
+    },
+    "url": "/mangas/4-yokohama-kaidashi-kikou",
+    "kind": "manga",
+    "score": "8.72",
+    "status": "released",
+    "volumes": 14,
+    "chapters": 142,
+    "aired_on": "1994-04-25",
+    "released_on": "2006-02-25",
+    "english": [
+      null
+    ],
+    "japanese": [
+      "ヨコハマ買い出し紀行"
+    ],
+    "synonyms": [
+      "Yokohama Shopping Log",
+      "Yokohama Shopping Trip",
+      "Touge"
+    ],
+    "license_name_ru": "Поездка за покупками в Иокогаму",
+    "description": "Далёкое будущее. Япония. Уровень моря резко поднялся и затопил прибрежные зоны, произошло извержение Фудзи. В результате этого численность населения существенно сократилась, политические и технологические институты пришли в упадок. Телефонов и телевидения больше не существует, хотя кофе-машины и фонарные столбы продолжают упрямо работать. На планете появились странные животные и растения, например, летающие рыбы и светящиеся деревья.\r\nОставшееся население ведёт тихий образ жизни и больше доверяет друг другу. Бок о бок с людьми живут и человекоподобные роботы. Один из них, девушка по имени Альфа [ 初瀬野アルファ], работает в кафе в деревне поблизости к тому, что осталось от Иокогамы. Вооружившись камерой, она путешествует на своём скутере, заводит новых друзей среди людей и роботов и просто наслаждается жизнью.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Далёкое будущее. Япония. Уровень моря резко поднялся и затопил прибрежные зоны, произошло извержение Фудзи. В результате этого численность населения существенно сократилась, политические и технологические институты пришли в упадок. Телефонов и телевидения больше не существует, хотя кофе-машины и фонарные столбы продолжают упрямо работать. На планете появились странные животные и растения, например, летающие рыбы и светящиеся деревья.<br>Оставшееся население ведёт тихий образ жизни и больше доверяет друг другу. Бок о бок с людьми живут и человекоподобные роботы. Один из них, девушка по имени <a href=\"https://shikimori.one/characters/2765-alpha-hatsuseno\" title=\"Alpha Hatsuseno\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/2765-alpha-hatsuseno/tooltip\" data-attrs=\"{&quot;id&quot;:2765,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Alpha Hatsuseno&quot;,&quot;russian&quot;:&quot;Альфа Хацусэно&quot;}\">Альфа</a>, работает в кафе в деревне поблизости к тому, что осталось от Иокогамы. Вооружившись камерой, она путешествует на своём скутере, заводит новых друзей среди людей и роботов и просто наслаждается жизнью.</div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 10947,
+    "topic_id": 10947,
+    "myanimelist_id": 4,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 338
+      },
+      {
+        "name": 9,
+        "value": 187
+      },
+      {
+        "name": 8,
+        "value": 127
+      },
+      {
+        "name": 7,
+        "value": 65
+      },
+      {
+        "name": 6,
+        "value": 16
+      },
+      {
+        "name": 5,
+        "value": 8
+      },
+      {
+        "name": 4,
+        "value": 6
+      },
+      {
+        "name": 1,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 3087
+      },
+      {
+        "name": "Прочитано",
+        "value": 907
+      },
+      {
+        "name": "Читаю",
+        "value": 328
+      },
+      {
+        "name": "Брошено",
+        "value": 69
+      },
+      {
+        "name": "Отложено",
+        "value": 125
+      }
+    ],
+    "licensors": [
+      "Alt Graph"
+    ],
+    "genres": [
+      {
+        "id": 52,
+        "name": "Seinen",
+        "russian": "Сэйнэн",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 53,
+        "name": "Sci-Fi",
+        "russian": "Фантастика",
+        "kind": "manga"
+      },
+      {
+        "id": 54,
+        "name": "Slice of Life",
+        "russian": "Повседневность",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 4,
+        "name": "Afternoon"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 8,
+    "name": "Full Moon wo Sagashite",
+    "russian": "В поисках полной луны",
+    "image": {
+      "original": "/system/mangas/original/8.jpg?1647813548",
+      "preview": "/system/mangas/preview/8.jpg?1647813548",
+      "x96": "/system/mangas/x96/8.jpg?1647813548",
+      "x48": "/system/mangas/x48/8.jpg?1647813548"
+    },
+    "url": "/mangas/8-full-moon-wo-sagashite",
+    "kind": "manga",
+    "score": "8.05",
+    "status": "released",
+    "volumes": 7,
+    "chapters": 35,
+    "aired_on": "2001-12-01",
+    "released_on": "2004-04-30",
+    "english": [
+      "Full Moon wo Sagashite"
+    ],
+    "japanese": [
+      "満月〈フルムーン〉をさがして"
+    ],
+    "synonyms": [
+      "Searching for the Full Moon",
+      "Ginyuu Meika"
+    ],
+    "license_name_ru": null,
+    "description": "Главная героиня Мицуки, 12-ти летняя девочка обладает прекрасным талантом - красивым голосом и обожает петь. Но к несчастью, строгая бабушка и рак горла не позволяют ей заниматься любимым делом. Несмотря на то, что ей предстоит умереть через год, она отказывается от операции, чтобы не потерять голос.\r\nСтановится известно, что некто должен спасти Мицуки, и, чтобы помешать этому, на землю спускаются два синигами. Но вместо того, чтобы забрать душу Мицуки, они решают помочь ей. Они изредка превращают Мицуки в 16-ти летнюю девушку, и в таком облике она может начать карьеру певицы и приблизиться к еще одной самой ее заветной мечте.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Главная героиня Мицуки, 12-ти летняя девочка обладает прекрасным талантом - красивым голосом и обожает петь. Но к несчастью, строгая бабушка и рак горла не позволяют ей заниматься любимым делом. Несмотря на то, что ей предстоит умереть через год, она отказывается от операции, чтобы не потерять голос.<br>Становится известно, что некто должен спасти Мицуки, и, чтобы помешать этому, на землю спускаются два синигами. Но вместо того, чтобы забрать душу Мицуки, они решают помочь ей. Они изредка превращают Мицуки в 16-ти летнюю девушку, и в таком облике она может начать карьеру певицы и приблизиться к еще одной самой ее заветной мечте.</div>",
+    "description_source": "https://readmanga.live/searching_for_the_full_moon",
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 10983,
+    "topic_id": 10983,
+    "myanimelist_id": 8,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 59
+      },
+      {
+        "name": 9,
+        "value": 28
+      },
+      {
+        "name": 8,
+        "value": 40
+      },
+      {
+        "name": 7,
+        "value": 27
+      },
+      {
+        "name": 6,
+        "value": 13
+      },
+      {
+        "name": 5,
+        "value": 9
+      },
+      {
+        "name": 4,
+        "value": 1
+      },
+      {
+        "name": 3,
+        "value": 1
+      },
+      {
+        "name": 2,
+        "value": 1
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 298
+      },
+      {
+        "name": "Прочитано",
+        "value": 399
+      },
+      {
+        "name": "Читаю",
+        "value": 33
+      },
+      {
+        "name": "Брошено",
+        "value": 19
+      },
+      {
+        "name": "Отложено",
+        "value": 10
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 57,
+        "name": "Fantasy",
+        "russian": "Фэнтези",
+        "kind": "manga"
+      },
+      {
+        "id": 62,
+        "name": "Romance",
+        "russian": "Романтика",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      },
+      {
+        "id": 78,
+        "name": "Music",
+        "russian": "Музыка",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 9,
+        "name": "Ribon Magazine"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 9,
+    "name": "Tsubasa: RESERVoir CHRoNiCLE",
+    "russian": "Хроника крыльев",
+    "image": {
+      "original": "/system/mangas/original/9.jpg?1649522338",
+      "preview": "/system/mangas/preview/9.jpg?1649522338",
+      "x96": "/system/mangas/x96/9.jpg?1649522338",
+      "x48": "/system/mangas/x48/9.jpg?1649522338"
+    },
+    "url": "/mangas/9-tsubasa-reservoir-chronicle",
+    "kind": "manga",
+    "score": "8.32",
+    "status": "released",
+    "volumes": 28,
+    "chapters": 233,
+    "aired_on": "2003-05-21",
+    "released_on": "2009-10-07",
+    "english": [
+      "Tsubasa: RESERVoir CHRoNiCLE"
+    ],
+    "japanese": [
+      "ツバサ -RESERVoir CHRoNiCLE-"
+    ],
+    "synonyms": [
+      "Крылья: Хроники источника",
+      "TRC"
+    ],
+    "license_name_ru": null,
+    "description": "Принцесса Сакура и простой археолог Сяоран — лучшие друзья, и даже немного больше... Но всё меняется в один отнюдь не прекрасный день, когда память Сакуры в виде множества магических перьев рассыпается по разным мирам. И Сяоран, поклявшийся найти их, отправляется в долгое странствие. Но не будет ли цена за эту попытку спасти принцессу слишком высока?",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Принцесса <a href=\"https://shikimori.one/characters/49213-sakura\" title=\"Sakura\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/49213-sakura/tooltip\" data-attrs=\"{&quot;id&quot;:49213,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Sakura&quot;,&quot;russian&quot;:&quot;Сакура&quot;}\">Сакура</a> и простой археолог <a href=\"https://shikimori.one/characters/126-syaoran\" title=\"Syaoran\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/126-syaoran/tooltip\" data-attrs=\"{&quot;id&quot;:126,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Syaoran&quot;,&quot;russian&quot;:&quot;Сяоран&quot;}\">Сяоран</a> — лучшие друзья, и даже немного больше... Но всё меняется в один отнюдь не прекрасный день, когда память <a href=\"https://shikimori.one/characters/49213-sakura\" title=\"Sakura\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/49213-sakura/tooltip\" data-attrs=\"{&quot;id&quot;:49213,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Sakura&quot;,&quot;russian&quot;:&quot;Сакура&quot;}\">Сакуры</a> в виде множества магических перьев рассыпается по разным мирам. И <a href=\"https://shikimori.one/characters/126-syaoran\" title=\"Syaoran\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/126-syaoran/tooltip\" data-attrs=\"{&quot;id&quot;:126,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Syaoran&quot;,&quot;russian&quot;:&quot;Сяоран&quot;}\">Сяоран</a>, поклявшийся найти их, отправляется в долгое странствие. Но не будет ли цена за эту попытку спасти принцессу слишком высока?</div>",
+    "description_source": "https://readmanga.live/chronicle_of_the_wings",
+    "franchise": "tsubasa",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 10991,
+    "topic_id": 10991,
+    "myanimelist_id": 9,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 371
+      },
+      {
+        "name": 9,
+        "value": 232
+      },
+      {
+        "name": 8,
+        "value": 223
+      },
+      {
+        "name": 7,
+        "value": 85
+      },
+      {
+        "name": 6,
+        "value": 25
+      },
+      {
+        "name": 5,
+        "value": 12
+      },
+      {
+        "name": 4,
+        "value": 3
+      },
+      {
+        "name": 3,
+        "value": 1
+      },
+      {
+        "name": 2,
+        "value": 2
+      },
+      {
+        "name": 1,
+        "value": 5
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 2746
+      },
+      {
+        "name": "Прочитано",
+        "value": 1483
+      },
+      {
+        "name": "Читаю",
+        "value": 245
+      },
+      {
+        "name": "Брошено",
+        "value": 93
+      },
+      {
+        "name": "Отложено",
+        "value": 112
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 56,
+        "name": "Action",
+        "russian": "Экшен",
+        "kind": "manga"
+      },
+      {
+        "id": 68,
+        "name": "Adventure",
+        "russian": "Приключения",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 57,
+        "name": "Fantasy",
+        "russian": "Фэнтези",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 8,
+        "name": "Shounen Magazine (Weekly)"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 124,
+    "name": "Aqua",
+    "russian": "Аква",
+    "image": {
+      "original": "/system/mangas/original/124.jpg?1647815598",
+      "preview": "/system/mangas/preview/124.jpg?1647815598",
+      "x96": "/system/mangas/x96/124.jpg?1647815598",
+      "x48": "/system/mangas/x48/124.jpg?1647815598"
+    },
+    "url": "/mangas/124-aqua",
+    "kind": "manga",
+    "score": "7.96",
+    "status": "released",
+    "volumes": 2,
+    "chapters": 10,
+    "aired_on": "2001-01-27",
+    "released_on": "2001-09-28",
+    "english": [
+      "Aqua"
+    ],
+    "japanese": [
+      "AQUA"
+    ],
+    "synonyms": [
+      "Othello Game",
+      "Ebony & Ivory"
+    ],
+    "license_name_ru": "Аква",
+    "description": "2301 год. После 150 лет изменений на Марсе 90% его поверхности стала занимать вода, и планету переименовали в Аква. Молодая девушка Акари Мидзунаси прибыла в акварианский город Новую Венецию, прототип старого итальянского города Венеция, в надежде стать ундиной. Она устраивается на работу в компанию «Ария», где оттачивает своё мастерство, заводит новых друзей и пытается адаптироваться к неторопливой жизни на Акве.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">2301 год. После 150 лет изменений на Марсе 90% его поверхности стала занимать вода, и планету переименовали в Аква. Молодая девушка <a href=\"https://shikimori.one/characters/378-akari-mizunashi\" title=\"Akari Mizunashi\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/378-akari-mizunashi/tooltip\" data-attrs=\"{&quot;id&quot;:378,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Akari Mizunashi&quot;,&quot;russian&quot;:&quot;Акари Мидзунаси&quot;}\">Акари Мидзунаси</a> прибыла в акварианский город Новую Венецию, прототип старого итальянского города Венеция, в надежде стать ундиной. Она устраивается на работу в компанию «Ария», где оттачивает своё мастерство, заводит новых друзей и пытается адаптироваться к неторопливой жизни на Акве.</div>",
+    "description_source": "https://readmanga.live/aqua",
+    "franchise": "aria",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 12036,
+    "topic_id": 12036,
+    "myanimelist_id": 124,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 91
+      },
+      {
+        "name": 9,
+        "value": 67
+      },
+      {
+        "name": 8,
+        "value": 112
+      },
+      {
+        "name": 7,
+        "value": 87
+      },
+      {
+        "name": 6,
+        "value": 35
+      },
+      {
+        "name": 5,
+        "value": 9
+      },
+      {
+        "name": 4,
+        "value": 4
+      },
+      {
+        "name": 3,
+        "value": 3
+      },
+      {
+        "name": 2,
+        "value": 2
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 502
+      },
+      {
+        "name": "Прочитано",
+        "value": 657
+      },
+      {
+        "name": "Читаю",
+        "value": 55
+      },
+      {
+        "name": "Брошено",
+        "value": 21
+      },
+      {
+        "name": "Отложено",
+        "value": 16
+      }
+    ],
+    "licensors": [
+      "Фабрика комиксов"
+    ],
+    "genres": [
+      {
+        "id": 63,
+        "name": "Shoujo",
+        "russian": "Сёдзе",
+        "kind": "manga"
+      },
+      {
+        "id": 49,
+        "name": "Comedy",
+        "russian": "Комедия",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 53,
+        "name": "Sci-Fi",
+        "russian": "Фантастика",
+        "kind": "manga"
+      },
+      {
+        "id": 54,
+        "name": "Slice of Life",
+        "russian": "Повседневность",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 42,
+        "name": "Stencil"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 20414,
+    "name": "Yamigarishi: Kimaira Tenryuuhen",
+    "russian": "",
+    "image": {
+      "original": "/system/mangas/original/20414.jpg?1636875883",
+      "preview": "/system/mangas/preview/20414.jpg?1636875883",
+      "x96": "/system/mangas/x96/20414.jpg?1636875883",
+      "x48": "/system/mangas/x48/20414.jpg?1636875883"
+    },
+    "url": "/mangas/20414-yamigarishi-kimaira-tenryuuhen",
+    "kind": "manga",
+    "score": "0.0",
+    "status": "ongoing",
+    "volumes": 0,
+    "chapters": 0,
+    "aired_on": "2009-01-01",
+    "released_on": null,
+    "english": [
+      null
+    ],
+    "japanese": [
+      "闇狩り師 キマイラ天龍変"
+    ],
+    "synonyms": [
+      "Yami Garishi: Chimera Tenryuuhen,Yami Garishi: Kimaira Tenryuuhen,Yami Karishi: Kimaira Tenryuuhen,Yamigarishi Kimaira Tenryuuhen"
+    ],
+    "license_name_ru": null,
+    "description": null,
+    "description_html": "<div class=\"b-text_with_paragraphs\"></div>",
+    "description_source": null,
+    "franchise": null,
+    "favoured": false,
+    "anons": false,
+    "ongoing": true,
+    "thread_id": null,
+    "topic_id": null,
+    "myanimelist_id": 20414,
+    "rates_scores_stats": [],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 4
+      },
+      {
+        "name": "Читаю",
+        "value": 1
+      },
+      {
+        "name": "Брошено",
+        "value": 1
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 52,
+        "name": "Seinen",
+        "russian": "Сэйнэн",
+        "kind": "manga"
+      },
+      {
+        "id": 56,
+        "name": "Action",
+        "russian": "Экшен",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 410,
+        "name": "Comic Ryu"
+      }
+    ],
+    "user_rate": null
+  },
+  {
+    "id": 12,
+    "name": "Bleach",
+    "russian": "Блич",
+    "image": {
+      "original": "/system/mangas/original/12.jpg?1649576050",
+      "preview": "/system/mangas/preview/12.jpg?1649576050",
+      "x96": "/system/mangas/x96/12.jpg?1649576050",
+      "x48": "/system/mangas/x48/12.jpg?1649576050"
+    },
+    "url": "/mangas/z12-bleach",
+    "kind": "manga",
+    "score": "7.75",
+    "status": "released",
+    "volumes": 74,
+    "chapters": 705,
+    "aired_on": "2001-08-07",
+    "released_on": "2016-08-22",
+    "english": [
+      "Bleach"
+    ],
+    "japanese": [
+      "BLEACH"
+    ],
+    "synonyms": [],
+    "license_name_ru": "Блич",
+    "description": "Жизнь подростка Ичиго Куросаки никогда не была обычной — с самого детства он видел призраков умерших людей. Несмотря на это, он жил обычной жизнью японского школьника (если, конечно, считать его отца и драки с ним нормальными), пока не встретил бога смерти — Рукию Кучики [朽木 ルキア], которая подчиняется загадочному Сообществу душ. Боги смерти сражаются с «пустыми», злыми неупокоившимися призраками, которые нападают на живых людей с высоким уровнем духовной энергии. Одного из таких пустых и выслеживала Рукия... Во время битвы она попыталась передать часть своей силы Ичиго, чтобы тот помог ей, но, к её удивлению, он забрал их все. Ослабленная Рукия будет долго восстанавливаться, а значит, её работу бога смерти придётся выполнять Ичиго...",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Жизнь подростка <a href=\"https://shikimori.one/characters/z5-ichigo-kurosaki\" title=\"Ichigo Kurosaki\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/z5-ichigo-kurosaki/tooltip\" data-attrs=\"{&quot;id&quot;:5,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Ichigo Kurosaki&quot;,&quot;russian&quot;:&quot;Ичиго Куросаки&quot;}\">Ичиго Куросаки</a> никогда не была обычной — с самого детства он видел призраков умерших людей. Несмотря на это, он жил обычной жизнью японского школьника (если, конечно, считать его отца и драки с ним нормальными), пока не встретил бога смерти — <a href=\"https://shikimori.one/characters/6-rukia-kuchiki\" title=\"Rukia Kuchiki\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/6-rukia-kuchiki/tooltip\" data-attrs=\"{&quot;id&quot;:6,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Rukia Kuchiki&quot;,&quot;russian&quot;:&quot;Рукия Кучики&quot;}\">Рукию Кучики</a>, которая подчиняется загадочному Сообществу душ. Боги смерти сражаются с «пустыми», злыми неупокоившимися призраками, которые нападают на живых людей с высоким уровнем духовной энергии. Одного из таких пустых и выслеживала <a href=\"https://shikimori.one/characters/6-rukia-kuchiki\" title=\"Rukia Kuchiki\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/6-rukia-kuchiki/tooltip\" data-attrs=\"{&quot;id&quot;:6,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Rukia Kuchiki&quot;,&quot;russian&quot;:&quot;Рукия Кучики&quot;}\">Рукия</a>... Во время битвы она попыталась передать часть своей силы <a href=\"https://shikimori.one/characters/z5-ichigo-kurosaki\" title=\"Ichigo Kurosaki\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/z5-ichigo-kurosaki/tooltip\" data-attrs=\"{&quot;id&quot;:5,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Ichigo Kurosaki&quot;,&quot;russian&quot;:&quot;Ичиго Куросаки&quot;}\">Ичиго</a>, чтобы тот помог ей, но, к её удивлению, он забрал их все. Ослабленная <a href=\"https://shikimori.one/characters/6-rukia-kuchiki\" title=\"Rukia Kuchiki\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/6-rukia-kuchiki/tooltip\" data-attrs=\"{&quot;id&quot;:6,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Rukia Kuchiki&quot;,&quot;russian&quot;:&quot;Рукия Кучики&quot;}\">Рукия</a> будет долго восстанавливаться, а значит, её работу бога смерти придётся выполнять <a href=\"https://shikimori.one/characters/z5-ichigo-kurosaki\" title=\"Ichigo Kurosaki\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/z5-ichigo-kurosaki/tooltip\" data-attrs=\"{&quot;id&quot;:5,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Ichigo Kurosaki&quot;,&quot;russian&quot;:&quot;Ичиго Куросаки&quot;}\">Ичиго</a>...</div>",
+    "description_source": null,
+    "franchise": "bleach",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 11018,
+    "topic_id": 11018,
+    "myanimelist_id": 12,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 1781
+      },
+      {
+        "name": 9,
+        "value": 1130
+      },
+      {
+        "name": 8,
+        "value": 1654
+      },
+      {
+        "name": 7,
+        "value": 1210
+      },
+      {
+        "name": 6,
+        "value": 502
+      },
+      {
+        "name": 5,
+        "value": 215
+      },
+      {
+        "name": 4,
+        "value": 79
+      },
+      {
+        "name": 3,
+        "value": 29
+      },
+      {
+        "name": 2,
+        "value": 7
+      },
+      {
+        "name": 1,
+        "value": 36
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 2744
+      },
+      {
+        "name": "Прочитано",
+        "value": 10113
+      },
+      {
+        "name": "Читаю",
+        "value": 2062
+      },
+      {
+        "name": "Брошено",
+        "value": 500
+      },
+      {
+        "name": "Отложено",
+        "value": 459
+      }
+    ],
+    "licensors": [
+      "Комикс-Арт"
+    ],
+    "genres": [
+      {
+        "id": 47,
+        "name": "Shounen",
+        "russian": "Сёнен",
+        "kind": "manga"
+      },
+      {
+        "id": 56,
+        "name": "Action",
+        "russian": "Экшен",
+        "kind": "manga"
+      },
+      {
+        "id": 68,
+        "name": "Adventure",
+        "russian": "Приключения",
+        "kind": "manga"
+      },
+      {
+        "id": 48,
+        "name": "Supernatural",
+        "russian": "Сверхъестественное",
+        "kind": "manga"
+      },
+      {
+        "id": 82,
+        "name": "Super Power",
+        "russian": "Супер сила",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 83,
+        "name": "Shounen Jump (Weekly)"
+      }
+    ],
+    "user_rate": null
+  }
+]
