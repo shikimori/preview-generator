@@ -65,7 +65,8 @@ def make_preview(
         config_file: str = typer.Option(..., '--config', help="Config file in YAML format (see: config.example.yaml)"),
         application_name: str = typer.Option(..., '--app-name', help="Application name for requests"),
         multithread: bool = typer.Option(False, '-P', help="Use multithreading"),
-        n_jobs: int = typer.Option(-1, '--n_jobs', help="Number of threads is multithreading is enabled")
+        n_jobs: int = typer.Option(-1, '--n_jobs', help="Number of threads is multithreading is enabled"),
+        demo_mode: bool = typer.Option(False, '--demo', help="Make demo sequence")
 ):
     """
     Make preview based on input and config
@@ -187,6 +188,7 @@ def make_preview(
                 year_color=year_color,
                 active_star_color=active_star_color,
                 star_color=star_color,
+                demo_mode=demo_mode,
             )
 
             result.append(res)

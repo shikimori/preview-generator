@@ -57,6 +57,7 @@ def make_preview(input_item: Item,
                  year_color: Color,
                  active_star_color: Color,
                  star_color: Color,
+                 demo_mode: bool = False
                  ):
     padding = int(70 * proportion)
     bottom_padding = padding + int(30 * proportion)
@@ -90,6 +91,19 @@ def make_preview(input_item: Item,
     active_star = replace_color(star, Color('#000000'), active_star_color)
     star = replace_color(star, Color('#000000'), star_color)
     description_font = ImageFont.truetype(text_font, size=int(24 * proportion))
+
+    demo = {
+        'path': Path.cwd() / 'demo_seq',
+        'step': 0
+    }
+
+    def demo_screen(image):
+        step = demo['step']
+        image.save(str(demo['path'] / f'{step:04d}.jpg'))
+        return step + 1
+
+    if demo_mode:
+        demo['path'].mkdir(exist_ok=True)
 
     def make_stars(img: ImageType, score: float, position: Tuple[int, int]):
         stars_x, stars_y = position
@@ -136,12 +150,21 @@ def make_preview(input_item: Item,
         image = Image.new('RGB', size, (255, 255, 255))
         image_editable = ImageDraw.Draw(image)
 
+        if demo_mode:
+            demo['step'] = demo_screen(image)
+
         image_width, image_height = image.size
 
         image = fill_bg_with_tiles(image, tile_bg)
 
+        if demo_mode:
+            demo['step'] = demo_screen(image)
+
         image_editable.rounded_rectangle((padding, padding, image_width - padding, image_height - bottom_padding),
                                          fill=bg_color.hex, radius=7)
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
 
         shiki_width, shiki_height = _get_two_part_logo_size(shiki_logo, shiki_glyph)
 
@@ -151,6 +174,9 @@ def make_preview(input_item: Item,
             image,
             shiki_logo, shiki_glyph
         )
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
         # endregion
 
         # region Avatar
@@ -178,6 +204,9 @@ def make_preview(input_item: Item,
         avatar_width, avatar_height = avatar.size
 
         image.paste(avatar, avatar_position, avarar_mask)
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
         # endregion
 
         start_x = padding + avatar_width + padding
@@ -190,6 +219,9 @@ def make_preview(input_item: Item,
         image_editable.rounded_rectangle((padding, padding, image_width - padding, image_height - bottom_padding),
                                          radius=7, outline=star_color.hex,
                                          width=1)
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
 
         # region Header
 
@@ -252,6 +284,9 @@ def make_preview(input_item: Item,
 
             start_y = start_y + pattern[-1][1][1] + header_line_height
 
+        if demo_mode:
+            demo['step'] = demo_screen(image)
+
         # endregion
 
         # region Subheader
@@ -282,6 +317,9 @@ def make_preview(input_item: Item,
 
             start_y = int(line_y + subheader_height / 3)
 
+        if demo_mode:
+            demo['step'] = demo_screen(image)
+
         # endregion
 
         score_text = item.score_text
@@ -291,8 +329,14 @@ def make_preview(input_item: Item,
         rating_width = make_stars(image, item.score / 2,
                                   (start_x, start_y + int(score_text_height / 2.5)))
 
+        if demo_mode:
+            demo['step'] = demo_screen(image)
+
         image_editable.text((start_x + rating_width, start_y), score_text, text_color.hex,
                             font=score_font)
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
 
         start_y = start_y + score_text_height
 
@@ -300,6 +344,9 @@ def make_preview(input_item: Item,
         if item.kind is not None and item.kind != '' and header_text is not None and len(header_text) <= 3:
             image_editable.text((start_x, start_y), kind, text_color.hex,
                                 font=kind_text)
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
 
         # region Description
 
@@ -333,6 +380,9 @@ def make_preview(input_item: Item,
             for text, bounds in pattern:
                 x, y = bounds
                 image_editable.text((start_x + x, start_y + y), text, text_color.hex, font=description_font)
+
+        if demo_mode:
+            demo['step'] = demo_screen(image)
 
         # endregion
 

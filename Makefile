@@ -81,4 +81,11 @@ preview_30: clear ## Fetch 30 animes and preview in parallel
 		--config "config.example.yaml" \
 		--app-name $$APPLICATION_NAME
 
-
+demo: clear
+	pgen fetch -M "2025" --app-name $$APPLICATION_NAME --save-path "output/custom.json"
+	mkdir -p "output/preview"
+	pgen make-preview "output/custom.json" \
+		--output-folder "output/preview/" \
+		--config "config.example.yaml" \
+		--app-name $$APPLICATION_NAME \
+		--demo
