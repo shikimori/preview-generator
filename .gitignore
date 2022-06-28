@@ -134,4 +134,4 @@ venv
 .DS_Store
 
 output/
-.pgen.json
+/.pgen.json

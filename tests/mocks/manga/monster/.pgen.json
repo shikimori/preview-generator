@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "name": "Monster",
+    "russian": "Монстр",
+    "image": {
+      "original": "/system/mangas/original/1.jpg?1648075808",
+      "preview": "/system/mangas/preview/1.jpg?1648075808",
+      "x96": "/system/mangas/x96/1.jpg?1648075808",
+      "x48": "/system/mangas/x48/1.jpg?1648075808"
+    },
+    "url": "/mangas/1-monster",
+    "kind": "manga",
+    "score": "9.12",
+    "status": "released",
+    "volumes": 18,
+    "chapters": 162,
+    "aired_on": "1994-12-05",
+    "released_on": "2001-12-20",
+    "english": [
+      "Monster"
+    ],
+    "japanese": [
+      "MONSTER"
+    ],
+    "synonyms": [],
+    "license_name_ru": null,
+    "description": "Доктор Кэндзо Тэмма — талантливый японский хирург, проживающий в Европе вместе со своей прекрасной невестой. Один из гениальных молодых умов в своей области, он вот-вот добьётся повышения в госпитале, в котором работает. Всё меняется после того, как Кэндзо столкнулся с одной из тяжелейших дилемм в своей жизни — спасти жизнь маленького мальчика или мэра города. Несмотря на давление со стороны начальства, главный герой оперирует другого пациента и спасает ему жизнь. Доктор верит, что все жизни равноценны. Но когда серия убийств происходит в городе, где живёт Кэндзо, все доказательства указывают на мальчика, которого он спас. Отправляясь в путешествие, чтобы разгадать истинную личность своего маленького пациента, доктор Кэндзо обнаруживает, что судьба всего мира может быть связана с загадочным ребёнком.",
+    "description_html": "<div class=\"b-text_with_paragraphs\">Доктор <a href=\"https://shikimori.one/characters/718-kenzou-tenma\" title=\"Kenzou Tenma\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/718-kenzou-tenma/tooltip\" data-attrs=\"{&quot;id&quot;:718,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Kenzou Tenma&quot;,&quot;russian&quot;:&quot;Кэндзо Тэмма&quot;}\">Кэндзо Тэмма</a> — талантливый японский хирург, проживающий в Европе вместе со своей прекрасной невестой. Один из гениальных молодых умов в своей области, он вот-вот добьётся повышения в госпитале, в котором работает. Всё меняется после того, как <a href=\"https://shikimori.one/characters/718-kenzou-tenma\" title=\"Kenzou Tenma\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/718-kenzou-tenma/tooltip\" data-attrs=\"{&quot;id&quot;:718,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Kenzou Tenma&quot;,&quot;russian&quot;:&quot;Кэндзо Тэмма&quot;}\">Кэндзо</a> столкнулся с одной из тяжелейших дилемм в своей жизни — спасти жизнь маленького мальчика или мэра города. Несмотря на давление со стороны начальства, главный герой оперирует другого пациента и спасает ему жизнь. Доктор верит, что все жизни равноценны. Но когда серия убийств происходит в городе, где живёт <a href=\"https://shikimori.one/characters/718-kenzou-tenma\" title=\"Kenzou Tenma\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/718-kenzou-tenma/tooltip\" data-attrs=\"{&quot;id&quot;:718,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Kenzou Tenma&quot;,&quot;russian&quot;:&quot;Кэндзо Тэмма&quot;}\">Кэндзо</a>, все доказательства указывают на мальчика, которого он спас. Отправляясь в путешествие, чтобы разгадать истинную личность своего маленького пациента, доктор <a href=\"https://shikimori.one/characters/718-kenzou-tenma\" title=\"Kenzou Tenma\" class=\"bubbled b-link\" data-tooltip_url=\"https://shikimori.one/characters/718-kenzou-tenma/tooltip\" data-attrs=\"{&quot;id&quot;:718,&quot;type&quot;:&quot;character&quot;,&quot;name&quot;:&quot;Kenzou Tenma&quot;,&quot;russian&quot;:&quot;Кэндзо Тэмма&quot;}\">Кэндзо</a> обнаруживает, что судьба всего мира может быть связана с загадочным ребёнком.</div>",
+    "description_source": null,
+    "franchise": "monster",
+    "favoured": false,
+    "anons": false,
+    "ongoing": false,
+    "thread_id": 10912,
+    "topic_id": 10912,
+    "myanimelist_id": 1,
+    "rates_scores_stats": [
+      {
+        "name": 10,
+        "value": 1011
+      },
+      {
+        "name": 9,
+        "value": 512
+      },
+      {
+        "name": 8,
+        "value": 300
+      },
+      {
+        "name": 7,
+        "value": 113
+      },
+      {
+        "name": 6,
+        "value": 38
+      },
+      {
+        "name": 5,
+        "value": 18
+      },
+      {
+        "name": 4,
+        "value": 8
+      },
+      {
+        "name": 3,
+        "value": 4
+      },
+      {
+        "name": 1,
+        "value": 5
+      }
+    ],
+    "rates_statuses_stats": [
+      {
+        "name": "Запланировано",
+        "value": 4521
+      },
+      {
+        "name": "Прочитано",
+        "value": 2824
+      },
+      {
+        "name": "Читаю",
+        "value": 732
+      },
+      {
+        "name": "Брошено",
+        "value": 152
+      },
+      {
+        "name": "Отложено",
+        "value": 229
+      }
+    ],
+    "licensors": [],
+    "genres": [
+      {
+        "id": 52,
+        "name": "Seinen",
+        "russian": "Сэйнэн",
+        "kind": "manga"
+      },
+      {
+        "id": 50,
+        "name": "Drama",
+        "russian": "Драма",
+        "kind": "manga"
+      },
+      {
+        "id": 46,
+        "name": "Mystery",
+        "russian": "Детектив",
+        "kind": "manga"
+      },
+      {
+        "id": 67,
+        "name": "Psychological",
+        "russian": "Психологическое",
+        "kind": "manga"
+      }
+    ],
+    "publishers": [
+      {
+        "id": 1,
+        "name": "Big Comic Original"
+      }
+    ],
+    "user_rate": null
+  }
+]
