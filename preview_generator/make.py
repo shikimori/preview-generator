@@ -13,7 +13,7 @@ from preview_generator.utils import resize, invert, make_transparent, replace_co
     find_suitable_fontsize, add_corners, eprint
 
 
-def prep_data(raw_data: Dict, tmp_dir: Path, application_name: str) -> Item | None:
+def prep_data(raw_data: Dict, tmp_dir: Path, application_name: str) -> Item or None:
     try:
         item = Item(raw_data)
         item.download(tmp_dir, application_name)
