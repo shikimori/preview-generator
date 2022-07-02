@@ -7,7 +7,7 @@ from typing import List
 import requests
 from ratelimiter import RateLimiter
 
-from preview_generator.constants import GET_ANIME, GET_MANGA, ENDPOINT
+from anime_pgen.constants import GET_ANIME, GET_MANGA, ENDPOINT
 
 
 @RateLimiter(max_calls=80, period=60)

@@ -8,8 +8,8 @@ from colour import Color
 
 from typing import Tuple, Dict, List
 
-from preview_generator.Item import Item
-from preview_generator.utils import resize, invert, make_transparent, replace_color, fill_bg_with_tiles, bruteforce, \
+from anime_pgen.Item import Item
+from anime_pgen.utils import resize, invert, make_transparent, replace_color, fill_bg_with_tiles, bruteforce, \
     find_suitable_fontsize, add_corners, eprint
 
 

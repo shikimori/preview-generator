@@ -48,4 +48,4 @@ jobs:
       - name: Test with pytest
         run: |
           source .venv/bin/activate
-          pytest --cov preview_generator/ --cov-report=html
+          pytest --cov anime_pgen/ --cov-report=html

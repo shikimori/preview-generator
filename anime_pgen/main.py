@@ -10,11 +10,11 @@ from typing import List, Tuple
 from joblib import Parallel, delayed
 from colour import Color
 
-from preview_generator import make
-from preview_generator.Item import Item
-from preview_generator.utils import eprint, pretty_print
-from preview_generator.constants import DEFAULT_SAVE_FILE, COLORS, SIZES, SIZE
-from preview_generator.download import download_many
+from anime_pgen import make
+from anime_pgen.Item import Item
+from anime_pgen.utils import eprint, pretty_print
+from anime_pgen.constants import DEFAULT_SAVE_FILE, COLORS, SIZES, SIZE
+from anime_pgen.download import download_many
 
 app = typer.Typer()
 

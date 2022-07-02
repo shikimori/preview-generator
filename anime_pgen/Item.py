@@ -3,7 +3,7 @@ from pathlib import Path
 
 import requests
 
-from preview_generator.utils import eprint
+from anime_pgen.utils import eprint
 
 
 class Item:
