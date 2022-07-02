@@ -4,7 +4,7 @@
 <p align="center"><i>Демо</i></p>
 
 [![pypi](https://img.shields.io/pypi/v/anime-pgen?color=%2334D058&label=pypi%20package)](https://pypi.org/project/anime-pgen)
-
+[![Tests](https://github.com/shikimori/preview-generator/actions/workflows/run-tests.yml/badge.svg)](https://github.com/shikimori/preview-generator/actions/workflows/run-tests.yml)
 
 ## Описание
 `anime-pgen` представляет собой `cli`-утилиту для генерации превью-изображений по данным Шикимори (_скачивание данных включено в функциональность_). В качестве фреймворка для организации `cli` интерфейса используется [Typer](https://typer.tiangolo.com)
