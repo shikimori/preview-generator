@@ -7,7 +7,7 @@ from pathlib import Path
 
 from typer.testing import CliRunner
 
-from preview_generator.main import app
+from anime_pgen.main import app
 
 runner = CliRunner()
 
