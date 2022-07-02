@@ -85,7 +85,7 @@ def make_preview(input_item: Item,
     score_font = ImageFont.truetype(number_font, size=int(44 * proportion))
     kind_text = ImageFont.truetype(bold_text_font, size=int(24 * proportion))
 
-    example_text_height = score_font.getsize('8.0')[1]
+    example_text_height = score_font.getbbox('8.0')[3]
 
     star = resize(star_image, int(example_text_height / 2) / star_image.size[0])
     active_star = replace_color(star, Color('#000000'), active_star_color)
@@ -245,7 +245,7 @@ def make_preview(input_item: Item,
 
             header_text = bruteforce(header, max_width, header_font,
                                      count=length)
-            header_line_height = header_font.getsize(header_text[0])[1]
+            header_line_height = header_font.getbbox(header_text[0])[3]
 
             pattern: List[Tuple[str, Tuple[int, int]]] = []
             for i in range(len(header_text)):
@@ -275,7 +275,7 @@ def make_preview(input_item: Item,
 
                 if is_first and there_is_year:
                     is_first = False
-                    year_width = year_font.getsize(text[0:5])[0]
+                    year_width = year_font.getbbox(text[0:5])[2]
                     image_editable.text((start_x + x, start_y + y), text[0:5], year_color.hex, font=year_font)
                     image_editable.text((start_x + x + year_width, start_y + y), text[5:], text_color.hex,
                                         font=header_font)
@@ -300,13 +300,13 @@ def make_preview(input_item: Item,
 
         if subheader is not None and subheader != '':
             _subheader_font = ImageFont.truetype(japan_font if is_japanese else text_font, size=int(24 * proportion))
-            if _subheader_font.getsize(subheader)[0] > max_width:
+            if _subheader_font.getbbox(subheader)[2] > max_width:
                 subheader_font = find_suitable_fontsize(max_width, _subheader_font, subheader,
                                                         len(subheader))
             else:
                 subheader_font = _subheader_font
 
-            subheader_width, subheader_height = subheader_font.getsize(subheader)
+            sx, sy, subheader_width, subheader_height = subheader_font.getbbox(subheader)
 
             subheader_y = int(start_y + subheader_height / 2)
 
@@ -324,7 +324,7 @@ def make_preview(input_item: Item,
 
         score_text = item.score_text
 
-        score_text_height = score_font.getsize(score_text)[1]
+        score_text_height = score_font.getbbox(score_text)[3]
 
         rating_width = make_stars(image, item.score / 2,
                                   (start_x, start_y + int(score_text_height / 2.5)))
@@ -355,7 +355,7 @@ def make_preview(input_item: Item,
         if description is not None and description != '':
             description_text = bruteforce(description, max_width, description_font,
                                           count=60)
-            description_line_height = description_font.getsize(description_text[0])[1]
+            description_line_height = description_font.getbbox(description_text[0])[3]
 
             pattern: List[Tuple[str, Tuple[int, int]]] = []
 

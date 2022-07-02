@@ -8,7 +8,7 @@ def bruteforce(text, max_width, font, count=40):
     final_text = []
 
     for line in lines:
-        width, height = font.getsize(line)
+        x, y, width, height = font.getbbox(line)
 
         if width >= max_width:
             return bruteforce(text, max_width, font, count - 10)
@@ -22,7 +22,7 @@ def find_suitable_fontsize(max_width: int, font: ImageFont, text: str, max_lette
     fontsize = 1
     font = ImageFont.truetype(font.path, fontsize)
 
-    while font.getsize(text[0:max_letters])[0] < max_width:
+    while font.getbbox(text[0:max_letters])[2] < max_width:
         # iterate until the text size is just larger than the criteria
         fontsize += 1
         font = ImageFont.truetype(font.path, fontsize)
