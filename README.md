@@ -3,8 +3,11 @@
 
 <p align="center"><i>Демо</i></p>
 
+[![pypi](https://img.shields.io/pypi/v/anime-pgen?color=%2334D058&label=pypi%20package)](https://pypi.org/project/anime-pgen)
+
+
 ## Описание
-`preview-generator` представляет собой `cli`-утилиту для генерации превью-изображений по данным Шикимори (_скачивание данных включено в функциональность_). В качестве фреймворка для организации `cli` интерфейса используется [Typer](https://typer.tiangolo.com)
+`anime` представляет собой `cli`-утилиту для генерации превью-изображений по данным Шикимори (_скачивание данных включено в функциональность_). В качестве фреймворка для организации `cli` интерфейса используется [Typer](https://typer.tiangolo.com)
 
 ### Требования и установка
 
@@ -14,12 +17,12 @@
 
 Установка:
 ```bash
-$> pip install preview-generator
+$> pip install anime
 ```
 
 [Опционально] Подсказки для терминала:
 ```bash
-$> preview-generator --install-completion
+$> pgen --install-completion
 ```
 
 

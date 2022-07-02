@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "preview-generator"
-version = "0.1.0"
+name = "anime-pgen"
+version = "1.0.0"
 description = "cli-утилита для генерации превью-изображений по данным Шикимори"
 authors = ["Vladimir Levin <opaozhub@gmail.com>"]
 readme = "README.md"
